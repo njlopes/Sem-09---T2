@@ -1,0 +1,52 @@
+valor = float(input())
+for i in range(1,25):
+    if i == 1:
+        print(f'1x de R$ {(valor)//1:.2f}')
+    elif i == 2:
+        print(f'2x de R$ {(valor)/2:.2f}')
+    elif i == 3:
+        print(f'3x de R$ {(valor)/3:.2f}')
+    elif i == 4:
+        print(f'4x de R$ {(valor)/4:.2f}')
+    elif i == 5:
+        print(f'5x de R$ {(valor)/5:.2f}')
+    elif i == 6:
+        print(f'6x de R$ {(valor)/6:.2f}')
+    elif i == 7:
+       print(f'7x de R$ {(valor)/7:.2f}')
+    elif i == 8:
+        print(f'8x de R$ {(valor)/8:.2f}')
+    elif i == 9:
+        print(f'9x de R$ {(valor)/9:.2f}')
+    elif i == 10:
+        print(f'10x de R$ {(valor)/10:.2f}')
+    elif i == 11:
+        print(f'11x de R$ {(valor)/11:.2f}')
+    elif i == 12:
+        print(f'12x de R$ {(valor)/12:.2f}')
+    elif i == 13:
+        print(f'13x de R$ {(valor)/13:.2f}')
+    elif i == 14:
+        print(f'14x de R$ {(valor)/14:.2f}')
+    elif i == 15:
+        print(f'15x de R$ {(valor)/15:.2f}')
+    elif i == 16:
+        print(f'16x de R$ {(valor)/16:.2f}')
+    elif i == 17:
+        print(f'17x de R$ {(valor)/17:.2f}')
+    elif i == 18:
+        print(f'18x de R$ {(valor)/18:.2f}')
+    elif i == 19:
+        print(f'19x de R$ {(valor)/19:.2f}')
+    elif i == 20:
+        print(f'20x de R$ {(valor)/20:.2f}')
+    elif i == 21:
+        print(f'21x de R$ {(valor)/21:.2f}')
+    elif i == 22:
+        print(f'22x de R$ {(valor)/22:.2f}')
+    elif i == 23:
+        print(f'23x de R$ {(valor)/23:.2f}')
+    elif i == 24:
+        print(f'24x de R$ {(valor)/24:.2f}')
+     
+    
